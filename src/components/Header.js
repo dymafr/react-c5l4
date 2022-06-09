@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Header.module.scss';
-import cookchef from '../assets/images/cookchef.png';
+import cookchef from 'https://github.com/dymafr/react-c5l4/blob/master/src/assets/images/cookchef.png';
 
 function Header() {
   return (
