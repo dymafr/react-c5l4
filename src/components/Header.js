@@ -7,7 +7,7 @@ function Header() {
       <i class="fa-solid fa-bars mr-15"></i>
       <div className="flex-fill">
         <img
-          src="https://github.com/dymafr/react-c5l4/blob/master/src/assets/images/cookchef.png"
+          src="https://github.com/dymafr/react-c5l4/blob/master/src/assets/images/cookchef.png?raw=true"
           alt="logo cookchef"
         />
       </div>
